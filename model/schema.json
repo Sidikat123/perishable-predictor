@@ -1,1 +1,1 @@
-{"features": ["Wastage_Units", "Product_Name", "Shelf_Life_Days", "Product_Category_Meat", "Product_Category_Dairy", "Price", "Cold_Storage_Capacity", "Store_Size", "Region_London", "Rainfall"]}
+{"features": ["Storage_Suitability", "Marketing_Intensity", "Wastage_Rolling", "Product_Category_Beverages", "Product_Category_Dairy", "Product_Category_Meat", "Product_Name", "Price_Trend", "Rainfall_Deviation", "Temperature_Deviation", "Region_Midlands", "Region_North East", "Region_North West", "Region_South East", "Region_South West", "Store_Size"]}

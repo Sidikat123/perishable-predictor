@@ -5,3 +5,13 @@ __pycache__/
 *.pyc
 perishable_dataset/
 model/*.pkl
+clean/encode.csv/
+clean/merged_data.csv/
+model/encode.csv/
+model/encode-data.csv/
+model/merged_data.csv/
+model\rf_model.pkl
+model\svr_model.pkl
+model\xgboost_model.pkl
+model\rf_optuna_model.pkl
+model\rf_gridsearchcv.pkl
