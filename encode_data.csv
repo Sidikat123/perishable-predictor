@@ -1,0 +1,2 @@
+Product_ID,Store_ID,Week_Number,Wastage_Units,Product_Name,Price,Store_Size,Storage_Suitability,Rainfall_Deviation,Temperature_Deviation,Marketing_Intensity,Product_Category_Bakery,Region_London
+1,1,2024-W01,100,2.5,2.5,1500,1500,0.0,0.0,0.9985105083634955,1.0,1.0

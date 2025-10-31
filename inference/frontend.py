@@ -51,7 +51,7 @@ if submitted:
             "Store_Size": store_size
         }
 
-        api_url = "http://localhost:8000/predict"  
+        api_url = "https://xglq77l3-8000.uks1.devtunnels.ms/predict"  
         response = requests.post(url=api_url, json={"records": [data]})
 
         if response.status_code == 200:
